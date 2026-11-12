@@ -1,9 +1,9 @@
 {
   "ai": {
-    "provider": "deepseek",
-    "model": "cn:deepseek-v4.1-flash",
-    "base_url": "https://tokenfuture.si/v1",
-    "api_key_env": "DEEPSEEK_API_KEY",
+    "provider": "openai",
+    "model": "nex-n2.6",
+    "base_url": "https://api.mosi.cn/v1",
+    "api_key_env": "MOSS_API_KEY",
     "temperature": 0.3,
     "max_tokens": 8192,
     "throttle_sec": 1,
